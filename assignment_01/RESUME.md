@@ -1,4 +1,6 @@
-## A little something about me:
+![](image%201.jpeg)
+
+# A little something about me:
 - **Name:** Ajit Rajesh Jadhav
 - **Contact Number:** (+1)-669 302-0381
 - **Email id:** ajitjadhav@umbc.edu
