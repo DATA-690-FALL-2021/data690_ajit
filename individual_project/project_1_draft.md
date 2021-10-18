@@ -1,4 +1,4 @@
-# Does education have an effect on the participation of women in the workforce?
+# Does education have an effect on the participation of women in workforce?
 *Name* : *Ajit Jadhav*
 
 *University of Maryland, Baltimore County*
