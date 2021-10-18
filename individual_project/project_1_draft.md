@@ -31,8 +31,16 @@ First we'll have a look at both enrollment of women in higher level education an
 Following are some observations from the above graph:
 - We can see that Bangladesh leads the way consistantly over the years with the highest percentage of female pupils enrolled in secondary level education.
 - Bhutan, Sri Lanka and Nepal follow Bhutan with enrollment around 48%-51% of the total pupils over the years.
-- India and Pakistan are forth and fifth followed by Afganistan in the list with all three countries showing an approximate increase of 3-4% in enrollment over the span of 8 years.
+- India and Pakistan are fifth and sixth followed by Afganistan in the list with all three countries showing an approximate increase of 3-4% in enrollment over the span of 8 years.
 
 
 ### Percentage of women in labor-force:
-![](women_higher_education.png)
+![](women_in_labor_force.png)
+Following are some observations from the above graph:
+- What is quite clear is that Nepal stands out from all the other countries with female labor-force participation of close to 80%.
+- Bhutan, Sri Lanka and Bangladesh follow Nepal in labor-force participation by women.
+- Similarly Pakistan, India and Afganistan are at the bottom.
+- We can observe that the countries follow a somewhat similar trend in both 'percentage of women enrolled in senior-level education' and 'percentage of women in labor-force'. Let's take a closer look at this similarity with a scatter plot to further strengthen inference.
+
+### Comparison of 'Percentage of women enrolled in higher-level education' vs 'Percentage of women in labor-force':
+![](women_in_labor_force.png)
