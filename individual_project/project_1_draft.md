@@ -43,4 +43,6 @@ Following are some observations from the above graph:
 - We can observe that the countries follow a somewhat similar trend in both 'percentage of women enrolled in senior-level education' and 'percentage of women in labor-force'. Let's take a closer look at this similarity with a scatter plot to further strengthen inference.
 
 ### Comparison of 'Percentage of women enrolled in higher-level education' vs 'Percentage of women in labor-force':
-![](women_in_labor_force.png)
+![](wiw_vs_wihe.png)
+Following are some observations from the above scatterplot:
+- The above scatter
