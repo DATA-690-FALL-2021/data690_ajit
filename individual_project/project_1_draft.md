@@ -51,15 +51,15 @@ Following are some observations from the above scatterplot:
 - Nepal, Bhutan, Sri Lanka and Bangladesh are followed by India, Pakistan and Afganistan in the scatterplot and we can see that this follows the same trend as seen in the above two graphs.
 
 ### Comparing the two factors for the year 2016:
-- From the above scatterplot we have seen that countries with higher enrollment in senior-level education have a higher percentage of women in the work froce. Now in this section we'll try to see if the same pattern is being followed within the year 2015:
+- From the above scatterplot we have seen that countries with higher enrollment in senior-level education have a higher percentage of women in the work froce. Now in this section we'll try to see if the same pattern is being followed within the year 2016:
 ![](se_bar.png)
 ![](flp_bar.png)
 
-From the above two bar graphs we can verify that a somehwat similar trend is followed in both, 'female enrollment in secondary education' and 'female participation in labor-force'
+From the above two bar graphs we can verify that a somehwat similar trend is followed in both, 'female enrollment in secondary education' and 'female participation in labor-force'.
 
 
 ### Conclusion:
 - From the above observations we can conclude that enrollment in higher education does have an impact on percentage of women engaged in the workforce.
 - It is not the sole factor that affects employment of women, but it is one of the many factors.
-- The decrease in women’s participation in the labor force is a critical concern of today's. From what we have seen in here indicates that encouraging women to pursue higher education can have a positive impact on the number of women in the work-force. Higher number of women in the workforce not only helps in reducing the gender disparity but also helps in speeding up the economic development of the country.
+- The decrease in women’s participation in the labor force is a critical concern of today's time. From what we have seen here indicates that encouraging women to pursue higher education can have a positive impact on the number of women in the work-force. Higher number of women in the workforce not only helps in reducing the gender disparity but also helps in speeding up the economic development of the country.
 - However, the relationship between enrollment in higher education and participation in work-force is far from straightforward.  Ultimately, women’s employment is driven by a range of other multifaceted factors such as fertility rates, social norms, and the nature of job creation.
