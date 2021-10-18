@@ -45,4 +45,4 @@ Following are some observations from the above graph:
 ### Comparison of 'Percentage of women enrolled in higher-level education' vs 'Percentage of women in labor-force':
 ![](wiw_vs_wihe.png)
 Following are some observations from the above scatterplot:
-- The above scatter
+- The above scatter plot
