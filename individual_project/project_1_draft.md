@@ -45,4 +45,11 @@ Following are some observations from the above graph:
 ### Comparison of 'Percentage of women enrolled in higher-level education' vs 'Percentage of women in labor-force':
 ![](wiw_vs_wihe.png)
 Following are some observations from the above scatterplot:
-- The above scatter plot
+- From the above scatter plot we can see that higher the number of women enrolled in secondary-level education higher is the percentage of women in the workforce
+- Hence, we can see that the inference that we had drawn from the above two graphs is further consolidated by the scatter-plot.
+- Nepal, Bhutan, Sri Lanka and Bangladesh are followed by India, Pakistan and Afganistan in the scatterplot and we can see that this follows the same trend as seen in the above two graphs.
+
+### Comparing the two factors for the year 2015:
+- From the above scatterplot we have seen that countries with higher enrollment in senior-level education have a higher percentage of women in the work froce. Now in this section we'll try to see if the same pattern is being followed within the year 2015:
+![](se_bar.png)
+![](flp_bar.png)
